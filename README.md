@@ -1,6 +1,6 @@
 # Simple Chat
 
-[![Build status](https://github.com/dzx912/simple-chat/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/dzx912/simple-chat/actions/workflows/build.yml)
+[![Build status](https://github.com/ai-lenok/simple-chat/actions/workflows/build.yml/badge.svg?branch=master)](https://github.com/ai-lenok/simple-chat/actions/workflows/build.yml)
 
 Простой и легковесный чат
 
